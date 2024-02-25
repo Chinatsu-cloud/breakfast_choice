@@ -8,7 +8,7 @@ public class Main {
 
     public static void main(String[] args){
         List<String> rice = new ArrayList<String>(Arrays.asList("てつや","さちこ","しょうこ","たろう","まや"));
-        List<String> bread = new ArrayList<String>(Arrays.asList("ともこ","さなえ","とおる","さちこ","まや","きょうこ","れん"));
+        List<String> bread = new ArrayList<String>(Arrays.asList("ともこ","さなえ","とおる","さちこ","きょうこ","れん"));
         List<String> both = new ArrayList<String>();
 
         for(String r : rice){
